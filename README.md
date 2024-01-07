@@ -1,4 +1,4 @@
-# 王权骰铸中文版Tabletop Simulator Mod
+# 王权骰铸脚本化中文版Tabletop Simulator Mod
 
 ## 使用指南
 在Steam社区中添加此mod
