@@ -1,2 +1,3 @@
-# Dice-of-Throne-TabletopsimulatorMod
-Dice of Throne Mod For Tabletopsimulator王权骰铸
+# 王权骰铸中文版Tabletop Simulator Mod
+# Dice of Throne Tabletop Simulator Mod
+
