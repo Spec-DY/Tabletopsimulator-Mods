@@ -33,8 +33,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2982325027&searchtext=%E7
  - Cp上限为15
 
 ### 文件说明
-*global.lua* 选择角色、重置桌面按钮及所有角色的setup逻辑
-*cardcustom.lua* 开始回合、抽牌按钮
+*global.lua* 选择角色、重置桌面按钮及所有角色的setup逻辑<br>
+*cardcustom.lua* 开始回合、抽牌按钮<br>
 *hp.lua* 增加或减少hp，源代码来自MrStump，仅添加上限
 *cp.lua* 同*hp.lua*
 
