@@ -12,10 +12,10 @@
 
 ### 使用指南
 #### 安装
-**1** 在Steam社区中订阅此mod<br>
+- 在Steam社区中订阅此mod<br>
 https://steamcommunity.com/sharedfiles/filedetails/?id=2982325027&searchtext=%E7%8E%8B%E6%9D%83<br>
-**2** 在Steam中打开Tabletop Simulator<br>
-**3** 创建房间后点击workshop并双击此mod<br>
+- 在Steam中打开Tabletop Simulator<br>
+- 创建房间后点击workshop并双击此mod<br>
 
 #### 按钮说明
 
@@ -30,7 +30,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2982325027&searchtext=%E7
  - 抽一张牌
 
 ### 文件说明
-global.lua 创建所有按钮并包含所有setup逻辑
+**global.lua** 创建选择角色，重置桌面按钮并包含所有角色的setup逻辑
 
 
 
