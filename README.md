@@ -29,7 +29,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2982325027&searchtext=%E7
 ##### 抽牌按钮
  - 抽一张牌
 
-#### 文件说明
+### 文件说明
+global.lua 创建所有按钮并包含所有setup逻辑
+
 
 
 
