@@ -4,8 +4,9 @@
 <img src="https://github.com/Spec-DY/DiceofThrone-Tabletopsimulator-Mod/assets/125960879/e42429eb-c4e8-4fc7-ba06-04d5744303c3" width="600" height="300">
 
 ### 使用指南
-1.在Steam社区中订阅此mod<br>
+**1** 在Steam社区中订阅此mod<br>
 https://steamcommunity.com/sharedfiles/filedetails/?id=2982325027&searchtext=%E7%8E%8B%E6%9D%83<br>
-2.在Steam中打开Tabletop Simulator
+**2** 在Steam中打开Tabletop Simulator<br>
+**3** 创建房间后点击workshop并双击此mod<br>
 
 ### 功能
