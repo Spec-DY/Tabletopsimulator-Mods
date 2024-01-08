@@ -28,10 +28,15 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2982325027&searchtext=%E7
  - 自动抽取1张牌并增加1CP
 ##### 抽牌按钮
  - 抽一张牌
+##### Hp及Cp板块
+ - Hp上限为60
+ - Cp上限为15
 
 ### 文件说明
-**global.lua** 创建选择角色，重置桌面按钮并包含所有角色的setup逻辑
-
+*global.lua* 选择角色、重置桌面按钮及所有角色的setup逻辑
+*cardcustom.lua* 开始回合、抽牌按钮
+*hp.lua* 增加或减少hp，源代码来自MrStump，仅添加上限
+*cp.lua* 同*hp.lua*
 
 
 
