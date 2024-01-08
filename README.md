@@ -3,6 +3,11 @@
 基于Tabletop Simulator的脚本化mod, 主要解决繁琐的setup环节
 <img src="https://github.com/Spec-DY/DiceofThrone-Tabletopsimulator-Mod/assets/125960879/e42429eb-c4e8-4fc7-ba06-04d5744303c3" width="600" height="300">
 
+
+### 功能
+**一键setup**点击后自动放置角色需要的所有物品，同时自动发牌
+
+
 ### 使用指南
 #### 安装
 **1** 在Steam社区中订阅此mod<br>
@@ -10,5 +15,4 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2982325027&searchtext=%E7
 **2** 在Steam中打开Tabletop Simulator<br>
 **3** 创建房间后点击workshop并双击此mod<br>
 
-### 功能
-**一键setup**点击后自动放置角色需要的所有物品，同时自动发牌
+
