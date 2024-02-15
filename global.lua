@@ -12,11 +12,9 @@ function onLoad()
         '如要查看英雄FAQ，建议右键克隆提示卡再右键解除锁定\n',
         '作者：SpectrumTech'
     }
-
-
-
-
-
+    for i, message in ipairs(messages) do
+        Wait.frames(function() broadcastToAll(message) end, i * 200)
+    end
 
 
     --ninja button
