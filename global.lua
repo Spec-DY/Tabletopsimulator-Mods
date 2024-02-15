@@ -1,15 +1,20 @@
 function onLoad()
-    broadcastToAll('欢迎来到侠技霸骰！')
-    Wait.frames(function() broadcastToAll('请在左侧点击按钮选择英雄') end, 200)
-    Wait.frames(function() broadcastToAll('若需更改英雄，请先在左侧点击“重置玩家桌面”，再重新选择英雄\n') end, 400)
-    Wait.frames(function() broadcastToAll('英雄列表已按照难度排序，简单->困难，从左至右，从上至下\n') end, 700)
-    Wait.frames(function() broadcastToAll('\n')end, 800)
-    Wait.frames(function() broadcastToAll('“开始新回合”按钮为，增加1cp且抽一张牌。')end, 1500)
-    Wait.frames(function() broadcastToAll('“抽牌”按钮为，仅抽一张牌。')end, 1500)
-    Wait.frames(function() broadcastToAll('“重置玩家桌面”按钮为，将点击按钮的玩家桌面清空。\n')end, 1500)
-    Wait.frames(function() broadcastToAll('如果发现部分物品无法清空，请将其放置在弃牌区再次点击重置玩家桌面按钮。')end, 1500)
-    Wait.frames(function() broadcastToAll('如要查看英雄FAQ，建议右键克隆提示卡再右键解除锁定。\n')end, 1500)
-    Wait.frames(function() broadcastToAll('作者：SpectrumTech')end, 1500)
+    local messages = {
+        '欢迎来到侠技霸骰！',
+        '请在左侧点击按钮选择英雄',
+        '若需更改英雄，请先在左侧点击“重置玩家桌面”，再重新选择英雄\n',
+        '英雄列表已按照难度排序，简单->困难，从左至右，从上至下\n',
+        '\n',
+        '“开始新回合”按钮：增加1cp且抽一张牌',
+        '“抽牌”按钮：仅抽一张牌',
+        '“重置玩家桌面”按钮：将点击按钮的玩家桌面清空\n',
+        '如果发现部分物品无法清空，请将其放置在弃牌区再次点击重置玩家桌面按钮',
+        '如要查看英雄FAQ，建议右键克隆提示卡再右键解除锁定\n',
+        '作者：SpectrumTech'
+    }
+
+
+
 
 
 
