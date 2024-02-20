@@ -1,7 +1,7 @@
 # 桌游模拟器自建mod<br>Tabletop Simulator Mods
 ## 璀璨宝石：对决 中/英 Splendor: Duel Scripted
 ### 描述
-由原mod修改而来，增加了更多功能，进一步简化游戏流程。
+基于原mod修改而来，增加了更多功能，进一步简化游戏流程。
 原mod地址：https://steamcommunity.com/sharedfiles/filedetails/?id=2912325912&searchtext=splendor+duel
 ### 功能：
 - 一键setup
