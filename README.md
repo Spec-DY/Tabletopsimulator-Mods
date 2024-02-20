@@ -1,4 +1,13 @@
-# 王权骰铸脚本化全英雄中文版Tabletop Simulator Mod
+# Tabletop Simulator Mods
+## 璀璨宝石：对决 Splendor: Duel Scripted
+### 描述
+由原mod修改而来，增加了更多功能，进一步简化游戏流程。
+
+
+
+
+
+## 王权骰铸脚本化全英雄中文版 Dice of Throne Scripted
 ### 描述
 基于Tabletop Simulator的脚本化mod, 主要解决繁琐的setup环节
 <img src="https://github.com/Spec-DY/DiceofThrone-Tabletopsimulator-Mod/assets/125960879/e42429eb-c4e8-4fc7-ba06-04d5744303c3" width="600" height="300">
