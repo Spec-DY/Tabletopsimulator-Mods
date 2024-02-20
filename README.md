@@ -1,4 +1,4 @@
-# Tabletop Simulator Mods
+# 桌游模拟器自建mod Tabletop Simulator Mods
 ## 璀璨宝石：对决 中/英 Splendor: Duel Scripted
 ### 描述
 由原mod修改而来，增加了更多功能，进一步简化游戏流程。
