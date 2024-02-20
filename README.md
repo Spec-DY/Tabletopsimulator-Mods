@@ -2,6 +2,24 @@
 ## 璀璨宝石：对决 中/英 Splendor: Duel Scripted
 ### 描述
 由原mod修改而来，增加了更多功能，进一步简化游戏流程。
+原mod地址：https://steamcommunity.com/sharedfiles/filedetails/?id=2912325912&searchtext=splendor+duel
+### 功能：
+- 一键setup
+- 一键补充公共牌堆
+- 一键补充宝石
+### 使用指南
+#### 安装
+- 在Steam社区中订阅此mod<br>
+[https://steamcommunity.com/sharedfiles/filedetails/?id=2982325027&searchtext=%E7%8E%8B%E6%9D%83](https://steamcommunity.com/sharedfiles/filedetails/?id=3164531387)<br>
+- 在Steam中打开Tabletop Simulator<br>
+- 创建房间后点击workshop并双击此mod<br>
+
+#### 说明：
+进入游戏后点击开始会自动生成牌堆并补充宝石
+补牌按钮可以自动检索牌堆空位，并且补充相应牌堆的牌
+填充棋盘按钮可以自动放置袋子中的宝石至棋盘上
+
+注意：请将缴纳的宝石放入袋子中
 
 
 
