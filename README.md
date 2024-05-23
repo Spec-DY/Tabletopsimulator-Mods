@@ -1,4 +1,4 @@
-# 桌游模拟器自建mod<br>Tabletop Simulator Mods
+# 桌游模拟器mod<br>Tabletop Simulator Mods
 ## 璀璨宝石：对决 中/英 Splendor: Duel Scripted
 ### 描述
 <img src="SplendorDuel/interface.jpg" width="600" height="300">
